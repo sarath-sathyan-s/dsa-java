@@ -15,3 +15,11 @@ This repo serves as a personal learning space to strengthen core Computer Scienc
 - Prepare for coding interviews with structured practice
 
 ---
+
+## 🧩 Topics Covered
+
+### 📌 Study Roadmap  
+https://neetcode.io/roadmap
+
+### 📌 Visual Overview  
+![Content](content.png)
